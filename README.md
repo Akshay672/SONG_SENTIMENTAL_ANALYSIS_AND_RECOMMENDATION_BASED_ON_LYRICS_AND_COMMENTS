@@ -1,8 +1,11 @@
+
 # Songs Sentimental Analysis and Recommendation Based on Lyrics and Comments
 
 Inspiration for this project : <a href='https://github.com/sq2141/Music-recommendation-engine'>Music-recommendation-engine</a>
 
 ## Summary
+
+![Poster_Image](https://user-images.githubusercontent.com/85668824/126116806-3c6cf8a6-362d-43a4-bee6-6ddec2e61854.gif)
 
 Human beings have ability to think, understand, make decisions and give their view points on mostly everything. Having this reasoning and decision making ability, the sentiments of humans are effected by almost everything, maybe positive or negative.
 
